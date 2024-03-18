@@ -1,0 +1,14 @@
+.demo
+{
+    background-color: black;
+}
+
+.vip
+{
+    background-color: black;
+    color: white;
+    border: 3px solid aqua;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 5px;
+}
